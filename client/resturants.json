@@ -1,0 +1,729 @@
+[
+    {
+        "name": "Pinchos",
+        "location": "Drottninggatan 38",
+        "coords": [
+            59.26919007540638,
+            15.209181784676927
+        ],
+        "category": "Tapas"
+    },
+    {
+        "name": "McDonalds City",
+        "location": "Drottninggatan 36",
+        "coords": [
+            59.269779948781796,
+            15.20977383476749
+        ],
+        "category": "Snabbmat"
+    },
+    {
+        "name": "Sushi Fresh",
+        "location": " Peppargatan 7",
+        "coords": [
+            59.25603765515137,
+            15.217528246976274
+        ],
+        "category": "Sushi"
+    },
+    {
+        "name": "Mr Gusto",
+        "location": " Studevägen 24",
+        "coords": [
+            59.25737173102565,
+            15.21874207573836
+        ],
+        "category": "Pizzeria"
+    },
+    {
+        "name": "Mingus",
+        "location": " Loftbodsgatan 2",
+        "coords": [
+            59.256906361650216,
+            15.209547319933577
+        ],
+        "category": "Pizzeria"
+    },
+    {
+        "name": "Pizzeria Ängen",
+        "location": " Ladugatan 1",
+        "coords": [
+            59.25648752377869,
+            15.203508519916578
+        ],
+        "category": "Pizzeria"
+    },
+   
+    {
+        "name": "Pizza-Time",
+        "location": "Änggatan 26",
+        "coords": [59.26677633027735, 15.20857418295263],
+        "category": "Pizzeria"
+        
+    },
+    {
+        "name": "Efesos",
+        "location": "Rudbecksgatan 28",
+        "coords": [59.26910380841834, 15.211727702849155],
+        "category": "Grekiskt"
+        
+    },
+    {
+        "name": "Lokus resturang - Pizzeria",
+        "location": "Näbbtorgsgatan 2",
+        "coords": [59.269122798556744, 15.20882618470583],
+        "category": "Pizzeria"
+        
+    },
+    {
+        "name": "Al forno italiano",
+        "location": "Drottninggatan 41",
+        "coords": [59.26766667645458, 15.207427172398521],
+        "category": "Italiensk"
+        
+    },
+    {
+        "name": "Castello Resturang & Pizzeria",
+        "location": "Fatbursgatan 1",
+        "coords": [59.256673486799116, 15.20603112742757],
+        "category": "Pizzeria"
+        
+    },
+
+        {
+            "name": "Cantina",
+            "location": "Näbbtorgsgatan 3",
+            "coords": [59.26891877337001, 15.208431323070586],
+            "category": "Italienskt"
+            
+        },
+        {
+            "name": "Pizza Bud Hawaii",
+            "location": "Ånstagatan 17",
+            "coords": [59.26891946703138, 15.196903123286896],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Sörby Grill & Pizzeria",
+            "location": "Mejramsvägen 113",
+            "coords": [59.25499137924213, 15.224153589268644],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Bella italia",
+            "location": "Kungsgatan 15",
+            "coords": [59.27236610798331, 15.21425192199351],
+            "category": "Italienskt"
+            
+        },
+        {
+            "name": "Sapore",
+            "location": "Storgatan 5",
+            "coords": [59.27692680983108, 15.213736937854009],
+            "category": "Italienskt"
+            
+        },
+        {
+            "name": "Pizzeria Milano",
+            "location": "Engelbrektsgatan 25",
+            "coords": [59.27040203494644, 15.224215860747389],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Viking Pizzeria and Salladsbar",
+            "location": "Oskarstorget 8B",
+            "coords": [59.26956751778936, 15.224496554506958],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Kinamuren",
+            "location": "Drottninggatan 15",
+            "coords": [59.27137467275339, 15.211546973533967],
+            "category": "Asiatiskt"
+            
+        },
+        {
+            "name": "Pizzeria Tre Kronor",
+            "location": "Folkungagatan 5B",
+            "coords": [59.272132565484824, 15.198134880888809],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Paolo's",
+            "location": "Drottninggatan 1",
+            "coords": [59.27543587835063, 15.212878630954833],
+            "category": "Italienskt"
+            
+        },
+        {
+            "name": "La Casa Resturang & Pizzeria",
+            "location": "Engeelbrektsgatan 9",
+            "coords": [59.271726899891874, 15.220725566066607],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Restaurang Amici",
+            "location": "Köpmangatan 11",
+            "coords": [59.27306779417765, 15.213050292334668],
+            "category": "Italienskt"
+            
+        },
+        {
+            "name": "Palette",
+            "location": "Köpmangatan 6",
+            "coords": [59.272316957338845, 15.213219395911686],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Zao Street Kitchen",
+            "location": "Kungsgatan 15",
+            "coords": [59.27060175622719, 15.21434358294532],
+            "category": "Asiatiskt"
+            
+        },
+        {
+            "name": "La Gondola City - Pizzeria",
+            "location": "Rudbecksgatan 14",
+            "coords": [59.269919785366035, 15.20766194300852],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Mamma Mia Pizzeria",
+            "location": "Trädgårdsgatan 3A",
+            "coords": [59.271837536441886, 15.21906554766696],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Sushi Yama Dim Sum",
+            "location": "Drottninggatan 27",
+            "coords": [59.26939909591728, 15.210267055962728],
+            "category": "Asiatiskt"
+            
+        },
+        {
+            "name": "Stillo resturang",
+            "location": "Sancta Birgittagatan 7",
+            "coords": [59.26800192630639, 15.228953483351809],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Engelbrekts Resturang",
+            "location": "Engelbrektzgatan 72",
+            "coords": [59.26748556118608, 15.227654338517306],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Sushi Yama",
+            "location": "Stortorget 8",
+            "coords": [59.27180549760303, 15.214494191356229],
+            "category": "Sushi"
+            
+        },
+        {
+            "name": "Pizza Hut",
+            "location": "Hagagatan 49",
+            "coords": [59.26992077408244, 15.172990137143627],
+            "category": "Pizzeria"
+            
+        },
+       
+        {
+            "name": "Pizzabakaren",
+            "location": "Drottninggatan 27",
+            "coords": [59.268719475895566, 15.21010649880124],
+            "category": "Pizzeria"
+            
+        },          
+                                                                                            
+        {
+            "name": "Saigon",
+            "location": "Rudbecksgatan 18",
+            "coords": [59.271054934116826, 15.209215186425556],
+            "category": "Asiatiskt"
+            
+        },                 
+        {
+            "name": "Sushibar",
+            "location": "Köpmangatan 27",
+            "coords": [59.26868655515205, 15.21063450014393],
+            "category": "Sushi"
+            
+        }, 
+        
+        {
+            "name": "La Casa Resturang",
+            "location": "Engelbrektsgatan 9",
+            "coords": [59.27169983942459, 15.220909842939857],
+            "category": "Pizzeria"
+            
+        },                  
+        {
+            "name": "Mii soo",
+            "location": "Stortorget 16",
+            "coords": [59.27119886487646, 15.215855155962805],
+            "category": "Asiatiskt"
+            
+        },                  
+        {
+            "name": "Miami Pizzeria",
+            "location": "Engelbrektsgatan 31A",
+            "coords": [59.26861794049595, 15.227027778723528],
+            "category": "Pizzeria"
+            
+        },                 
+         {
+            "name": "Nat sushi",
+            "location": "Drottinggatan 20",
+            "coords": [59.27133576040652, 15.210863598290384],
+            "category": "Sushi"
+            
+        },                  
+        {
+            "name": "Pizza Light",
+            "location": "Vasatorget 6",
+            "coords": [59.27462632181537, 15.207029230398497],
+            "category": "Pizzeria"
+            
+        },                  
+        {
+            "name": "Ummy",
+            "location": "Kyrkogatan 2",
+            "coords": [59.27233087552266, 15.20982398294543],
+            "category": "Asiatiskt"
+            
+        },                  
+        {
+            "name": "Resturang Capri",
+            "location": "Vasatorget 2",
+            "coords": [59.27390274080972, 15.205655939482398],
+            "category": "Pizzeria"
+            
+        },                  
+        {
+            "name": "Max Bernarena",
+            "location": "Rudbecksgatan 52E",
+            "coords": [59.26700495581168, 15.224135998217893],
+            "category": "Snabbmat"
+            
+        },                  
+        {
+            "name": "Resturang Mona Vera",
+            "location": "Västhagagatan 3",
+            "coords": [59.27259804660599, 15.175969600548195],
+            "category": "Pizzeria"
+            
+        },                  
+        {
+            "name": "Mojo",
+            "location": "Stortorget 12",
+            "coords": [59.27130112484294, 15.215320796436664],
+            "category": "Asiatiskt"
+            
+        },                  
+        {
+            "name": "Almby Pizzeria",
+            "location": "Hjälmarvägen 27",
+            "coords": [59.26153974779146, 15.24578579383711],
+            "category": "Pizzeria"
+            
+        },                  
+        {
+            "name": "Pizza Akuten",
+            "location": "Köpmangatan 4",
+            "coords": [59.27254589324554, 15.213429458643269],
+            "category": "Pizzeria"
+            
+        },                  
+        {
+            "name": "Pizzeria Galejan",
+            "location": "Elersgatan 11",
+            "coords": [59.27677005668377, 15.204855540169195],
+            "category": "Pizzeria"
+            
+        },                  
+        {
+            "name": "Pizzeria Gyros House",
+            "location": "Järnvägsgatan 13",
+            "coords": [59.277030790343126, 15.219655756582778],
+            "category": "Pizzeria"
+            
+        },                  
+        {
+            "name": "Coco",
+            "location": "Storgatan 13",
+            "coords": [59.276399689779446, 15.215093527126756],
+            "category": "Asiatiskt"
+            
+        },                  
+        {
+            "name": "Sibylla",
+            "location": "Järnvägsgatan 8",
+            "coords": [59.27924025000572, 15.21441992862385],
+            "category": "Snabbmat"
+            
+        },                  
+        {
+            "name": "Restaurang Wongs",
+            "location": "Olaigatan 19",
+            "coords": [59.27520465998105, 15.215739013635483],
+            "category": "Asiatiskt"
+            
+        },                  
+        {
+            "name": "Rulles Pizzeria",
+            "location": "Älvtomtagatan 42A",
+            "coords": [59.278282284117225, 15.196485762611166],
+            "category": "Pizzeria"
+            
+        },                  
+        {
+            "name": "Campus Pizzeria",
+            "location": "Studentgatan 16",
+            "coords": [59.25246091430107, 15.244458877882789],
+            "category": "Pizzeria"
+            
+        },                  
+        
+        {
+            "name": "Burger king",
+            "location": "Drottninggatan 26",
+            "coords": [59.2717830962569, 15.21030004902669],
+            "category": "Snabbmat"
+            
+        },                  
+        {
+            "name": "Sayam",
+            "location": "västra bangatan 11",
+            "coords": [59.274791226414365, 15.207435942471676],
+            "category": "Asiatiskt"
+            
+        },                  
+        {
+            "name": "McDonald's",
+            "location": "Drottninggatan 36",
+            "coords": [59.27090595316829, 15.20952757281743],
+            "category": "Snabbmat"
+            
+        },                  
+        {
+            "name": "Pizzeria Express",
+            "location": "Lövstagatan 9",
+            "coords": [59.27892383956106, 15.204597799374666],
+            "category": "Pizzeria"
+            
+        },                  
+        {
+            "name": "Subway",
+            "location": "Storgatan 10",
+            "coords": [59.277308578278955, 15.215449890421736],
+            "category": "Snabbmat"
+            
+        },
+        {
+            "name": "Subway",
+            "location": "Drottninggatan 30",
+            "coords": [59.27143224173224, 15.210557541096442],
+            "category": "Snabbmat"
+            
+        },         
+        {
+            "name": "Subway",
+            "location": "Drottningatan 27",
+            "coords": [59.27072776466104, 15.209701932118312],
+            "category": "Snabbmat"
+            
+        },
+        {
+            "name": "Pizzeria Viktoria Grillen",
+            "location": "kersgatan 20A",
+            "coords": [59.277651762277, 15.204128663739985],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Haga Resturang & Pizzeria",
+            "location": "Vaktelvägen 2",
+            "coords": [59.2752938453652, 15.165655466280548],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Xin Tong",
+            "location": "Vasatorget 5",
+            "coords": [59.2747588344279, 15.206970300144164],
+            "category": "Asiatiskt"
+            
+        },
+        {
+            "name": "Hachi",
+            "location": "Järntorgsgatan 4",
+            "coords": [59.275426768421255, 15.211851376565821],
+            "category": "Asiatiskt"
+            
+        },
+        {
+            "name": "FfC",
+            "location": "Drottninggatan 38",
+            "coords": [59.27121746273308, 15.20876590218834],
+            "category": "Snabbmat"
+            
+        },
+        {
+            "name": "Mr Pizza",
+            "location": "Åstadalsvägen 1H",
+            "coords": [59.25421536675498, 15.24379190744813],
+            "category": "Pizzeria"
+            
+        },
+                {
+            "name": "Sushi Natu",
+            "location": "Ekersgatan 9",
+            "coords": [59.27637885771329, 15.205082555963028],
+            "category": "Sushi"
+            
+        },
+        {
+            "name": "Burger Love",
+            "location": "Stortorget 6",
+            "coords": [59.27425615520935, 15.2131703705531],
+            "category": "Hamburgare"
+            
+        },
+        {
+            "name": "Bastard Burger",
+            "location": "Järnvägsgatan 8",
+            "coords": [59.282651999449286, 15.214350808008556],
+            "category": "Hamburgare"
+            
+        },
+        {
+            "name": "DINÉ",
+            "location": "Våghustorget 1",
+            "coords": [59.274680843500335, 15.212008522499378],
+            "category": "Hamburgare"
+            
+        },
+        {
+            "name": "Sushi Combo",
+            "location":  "Järnvägsgatan 20",
+            "coords": [59.27722034050342, 15.218236563448334],
+            "category": "Sushi"
+            
+        },
+        {
+            "name": "Brödernas",
+            "location": "Orvar bergmarks plats 5",
+            "coords": [59.27124931778197, 15.226625678423375],
+            "category": "Hamburgare"
+            
+        },
+        {
+            "name": "Q Pizza",
+            "location": "Storgatan 10",
+            "coords": [59.27588495096087, 15.215245869117382],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Sallad&",
+            "location": "Kungsgatan 15",
+            "coords": [59.270590020848275, 15.21437297123551],
+            "category": "Sallad"
+            
+        },
+        {
+            "name": "AnGan",
+            "location": "Engelbreksgatan 10A",
+            "coords": [59.27258489969696, 15.215495565231274],
+            "category": "Asiatiskt"
+            
+        },
+        {
+            "name": "Fresh Food",
+            "location": "Slottsgatan 6",
+            "coords": [59.27685448103694, 15.217570050367408],
+            "category": "Sallad"
+            
+        },
+        {
+            "name": "Pizzeria Diana",
+            "location": "Skolgatan 44B",
+            "coords": [59.28095256187672, 15.224169198692115],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Amano",
+            "location": "Kungsgatan 1",
+            "coords": [59.2724307031945, 15.21568945225548],
+            "category": "Asiatiskt"
+            
+        },
+        {
+            "name": "City Pizzeria",
+            "location": "Storgatan 48",
+            "coords": [59.28151836087309, 15.219784240890826],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Taco bar",
+            "location": "Stortorget 6",
+            "coords": [59.27177032856677, 15.213281983317897],
+            "category": "Taco"
+            
+        },
+
+        {
+            "name": "Annapurna",
+            "location": "Köpmangatan 3",
+            "coords": [59.27259334033693, 15.213760511709424],
+            "category": "Indiskt"
+            
+        },
+        {
+            "name": "Chandani",
+            "location": "Kungsgatan 4",
+            "coords": [59.27223382974377, 15.215168927054382],
+            "category": "Indiskt"
+            
+        },
+        {
+            "name": "Sooshi",
+            "location": "Karlsdalsallén 63",
+            "coords": [59.251862160932006, 15.22229064247065459],
+            "category": "Asiatisk"
+            
+        },
+        {
+            "name": "Norrby Pizzeria",
+            "location": "Höglundagatan 10",
+            "coords": [59.28510003868564, 15.232397879804047],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Pizzeria Bagdad",
+            "location": "Fredsgatan 18",
+            "coords": [59.27619379807576, 15.216759596120767],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Resturang Parken",
+            "location": "Adolf Mörners plan 6",
+            "coords": [59.246727322476296, 15.167552118916594],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Adolfsbergs Resturang & Pizzeria",
+            "location": "Lindhultsvägen 1A",
+            "coords": [59.239614091067885, 15.1617614805155],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Pizzeria Athena",
+            "location": "Lövstagatan 31E",
+            "coords": [59.2840842798025, 15.203097063219953],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Pacos Järntorget",
+            "location": "Olaigatan 13A",
+            "coords": [59.275480797379124, 15.213610320396498],
+            "category": "Pizzeria"
+            
+        },
+        {
+            "name": "Sobi",
+            "location":"Orvar bergmarks plats 1",
+            "coords": [59.26892497363649, 15.227644530246712],
+            "category": "Sushi"
+            
+        },
+        {
+            "name": "Terazza",
+            "location": "Drottninggatan 45",
+            "coords": [59.267073046788944, 15.206641055842931],
+            "category": "Kafé"
+            
+        },
+        {
+            "name": "L'espresso",
+            "location": "Krämaren",
+            "coords": [59.269064664622796, 15.209675227019302],
+            "category": "Kafé"
+            
+        },
+        {
+            "name": "Espresso house",
+            "location": "Drottninggatan 25",
+            "coords": [59.27012277286303, 15.210394059047365],
+            "category": "Kafé"
+            
+        },
+        {
+            "name": "Bara vara",
+            "location": "Köpmangatan 24",
+            "coords": [59.27013921988194, 15.211263094782776],
+            "category": "Kafé"
+            
+        },
+        {
+            "name": "Kamar Al Sham",
+            "location": "Drottninggatan 42",
+            "coords": [59.26823462395396, 15.208240261359045],
+            "category": "Kafé"
+            
+        },
+                {
+            "name": "Java",
+            "location": "Kungssgatan 9",
+            "coords": [59.271101060379735, 15.214847044217937],
+            "category": "Kafé"
+            
+        },
+                {
+            "name": "Lill Annas",
+            "location": "Vasagatan 13",
+            "coords": [59.272828470804065, 15.211059128872979],
+            "category": "Kafé"
+            
+        },
+        {
+            "name": "Vasakonditoriet",
+            "location": "Vasagatan 15",
+            "coords": [59.27276495301447, 15.2113869828381],
+            "category": "Kafé"
+            
+        },
+        {
+            "name": "",
+            "location": "",
+            "coords": [],
+            "category": ""
+            
+        },
+        {
+            "name": "",
+            "location": "",
+            "coords": [],
+            "category": ""
+            
+        }
+
+]

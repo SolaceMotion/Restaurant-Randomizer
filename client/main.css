@@ -1,0 +1,102 @@
+body { 
+    margin: 0; 
+    padding: 0; 
+    justify-content: center;
+    align-items: center; 
+}
+/* Gömmer scrollbaren */
+.mainContainer::-webkit-scrollbar {
+    display: none; 
+}
+html {
+    scrollbar-width: none; 
+    -webkit-scrollbar-width: none;
+}
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* huvud kontainer */
+.mainContainer {
+    margin: 0; 
+    padding: 0; 
+    height: 100vh; 
+    width: 100vw;
+    display: grid; 
+    grid-template-columns: 1;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 0px 0px; 
+    overflow: auto; 
+}
+/* Gömmer scrollbar för huvudkontainern */
+.mainContainer::-webkit-scrollbar-width { 
+    display: none; 
+}
+/* Kontainer för startbilden */
+.banner { 
+    grid-row: 1;
+    grid-column: 1; 
+    height: 100vh; 
+    width: 100vw;
+    background-image: url("./images/bakgrund.jpg"); 
+    background-size: cover; 
+}
+/* Filter för startbilden med toning */
+.banner_overlay {
+    height: 100%;
+    width: 100%; 
+    background-color: rgba(0,0,0,0.5); 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    position: relative; 
+}
+/* kontainer för rubrikerna */
+.headline_wrapper {
+    height: auto; 
+    width: auto; 
+    display: flex; 
+    flex-direction: column;
+    text-align: center;
+    position: relative;
+    margin-top: -50px;
+}
+/* Titel / rubrik */
+.headline {
+    font-size: 6em; 
+    font-family: 'Lobster', cursive;
+    color: rgba(255,255,255,1); 
+} 
+/* underubrik */
+.sub_headline {
+    font-size: 3em; 
+    color: rgba(255,255,255,0.8); 
+    margin-top: -1.8em; 
+}
+/* Pilen */
+.fa-solid {
+    color: rgba(255,255,255,0.9); 
+    font-size: 5em; 
+    position: absolute; 
+    top: 85%; 
+    left: 47%; 
+    transform: translate(-50%, -50%);  
+}
+/* kontainer för kategorierna */
+.CategoriesContainer { 
+    grid-row: 2;
+    grid-column: 1; 
+    height: 100vh; 
+    width: 100%;
+    background-color: lightgray; 
+}
+
+.data_temp {
+    grid-row: 3;
+    grid-column: 1; 
+    height: 100vh; 
+    width: 100vw;
+    background-color: white; 
+    /* overflow: auto;  */
+}

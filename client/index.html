@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="main.css"><link> 
+  <!-- ----- Egna typsnitt ----- -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+  <script defer src="main.js"></script>
+</head>
+<body>
+  <!-- Huvud kontainern -->
+  <div class="mainContainer">
+    <!-- Startbild, med titel och underrubrik -->
+    <div class="banner">
+      <div class="banner_overlay"> <!-- banner overlay är ett filter som med en färg som tonar ner bakgrundsbilden -->
+        <div class="headline_wrapper"> <!-- Kontainer för rubrik och underrubrik -->
+          <p class="headline">Restaurangslumpen</p>
+          <p class="sub_headline">Resturanger i din närhet</p>
+        </div>
+        <!-- Animerad pil med bounce effekt, navigerar till kategorierna vid klick -->
+        <a href="#content">
+         <i class="fa-solid fa-angle-down animate__animated animate__bounce animate__infinite animate__slow"></i>
+        </a>
+      </div>
+    </div> 
+    <!-- Kontainer för kategorier -->
+    <div class="CategoriesContainer" id="content">
+     
+    </div> 
+  </div>
+  <div class="data_temp">
+    <ul id="restaurants"></ul>
+    <button id="randomize">Slumpa</button>
+  </div>
+  <script>
+    function sleep(time) {
+      return new Promise((resolve) => setTimeout(resolve, time * 1000))
+    }
+    
+  </script> 
+</body>
+</html>
