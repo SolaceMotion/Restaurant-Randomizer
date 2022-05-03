@@ -1,49 +1,101 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <link rel="stylesheet" href="main.css"><link> 
+  <title>Randome resturante</title>
+  <link rel="stylesheet" href="main.css">
+  <link>
   <!-- ----- Egna typsnitt ----- -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
   <script defer src="main.js"></script>
 </head>
+
 <body>
   <!-- Huvud kontainern -->
   <div class="mainContainer">
     <!-- Startbild, med titel och underrubrik -->
     <div class="banner">
-      <div class="banner_overlay"> <!-- banner overlay är ett filter som med en färg som tonar ner bakgrundsbilden -->
-        <div class="headline_wrapper"> <!-- Kontainer för rubrik och underrubrik -->
-          <p class="headline">Restaurangslumpen</p>
-          <p class="sub_headline">Resturanger i din närhet</p>
+      <div class="banner_overlay">
+        <!-- banner overlay är ett filter som med en färg som tonar ner bakgrundsbilden -->
+        <div class="headline_wrapper">
+          <!-- Kontainer för rubrik och underrubrik/slogan -->
+          <!-- Huvudtitel med animation -->
+          <p class="headline animate__animated animate__fadeInLeft">Restaurangslumpen</p>
+          <!-- Underrubrik med animation -->
+          <p class="sub_headline animate__animated animate__fadeInRight">Resturanger i din närhet</p>
         </div>
-        <!-- Animerad pil med bounce effekt, navigerar till kategorierna vid klick -->
+        <!-- Animerad pil med bounce effekt, navigerar till kategorierna vid klick med hjälp av hyperrefernce och ID -->
         <a href="#content">
-         <i class="fa-solid fa-angle-down animate__animated animate__bounce animate__infinite animate__slow"></i>
+          <i
+            class="fa-solid fa-angle-down animate__animated animate__bounce animate__infinite animate__slow animate__delay-1s"></i>
         </a>
       </div>
-    </div> 
+    </div>
     <!-- Kontainer för kategorier -->
-    <div class="CategoriesContainer" id="content">
-     
-    </div> 
+    <div class="CategoriesContainer" id="uni">
+
+      <!-- Slumpa knappen -->
+      <aside>
+        <div class="restaurantsList">
+          <ul id="restaurants"></ul>
+        </div>
+      </aside>
+      <main>
+        <article class="cringea">
+          <div class="buttonContainer">
+            <h1>Slumpa restaurang</h1>
+            <div class="button">
+              <div class="filter">
+                <p>Filter: </p>
+                <select name="" id="fillher">
+                  <option value="">Alla</option>
+                  <option value="Kafé">Kafé</option>
+                  <option value="Pizzeria">Pizzeria</option>
+                  <option value="Italienskt">Italienskt</option>
+                  <option value="Sushi">Sushi</option>
+                  <option value="Indiskt">Indiskt</option>
+                  <option value="Hamburgare">Hamburgare</option>
+                  <option value="Sallad">Sallad</option>
+                  <option value="Snabbmat">Snabbmat</option>
+                </select>
+                <br>
+              </div>
+              <div class="dist">
+                <label>Distans: </label>
+                <input type="text" id="rang"><span> m.</span>
+              </div>
+              <div id="randomize">Slumpa</div>
+            </div>
+          </div>
+          <!-- Slumpad restaurang -->
+          <div id="content">
+
+          </div>
+        </article>
+        <footer>
+          
+        </footer>
+      </main>
+      <!-- lista med restauranger -->
+    </div>
   </div>
-  <div class="data_temp">
-    <ul id="restaurants"></ul>
-    <button id="randomize">Slumpa</button>
-  </div>
+
   <script>
     function sleep(time) {
       return new Promise((resolve) => setTimeout(resolve, time * 1000))
     }
-    
-  </script> 
+
+  </script>
 </body>
+
 </html>
+
+
+<!-- Det ska finnas knappar för alla kategorier, man ska kunna trycka på en knapp för att välja kategori, för att sedan få upp en random resturang inom den kategorin, Funkar inte ännu!-->
